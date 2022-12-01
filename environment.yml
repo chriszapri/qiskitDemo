@@ -2,5 +2,7 @@ name: environment
 channels:
   - conda-forge
 dependencies:
-  - numpy
   - qiskit
+  - numpy
+  - ipywidgets
+  - IPython
