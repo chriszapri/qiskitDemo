@@ -1,8 +1,0 @@
-name: environment
-channels:
-  - conda-forge
-dependencies:
-  - qiskit
-  - numpy
-  - ipywidgets
-  - IPython
