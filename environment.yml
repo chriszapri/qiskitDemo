@@ -1,9 +1,0 @@
-name: qiskit-env
-channels:
-  - conda-forge
-dependencies:
-  - numpy
-  - matplotlib
-  - qiskit
-  - ipywidgets
-  - IPython.display
